@@ -84,9 +84,3 @@ do {
 for (let i = 0; i < 3; i++) {
   alert(`Laço de repetição For`);
 }
-
-// Vetores
-let vetor = [10, 20, 30, 40, 50];
-alert(
-  `${vetor[3]} - Esse é o valor da posição 3 do meu vetor. obs: lembrando que começa com 0`
-);

@@ -1,4 +1,10 @@
-//Vetores
+////////////////////////////////////////////////////////////////////////////////////////
+////////////// Vetores
+let vetor10 = [10, 20, 30, 40, 50];
+alert(
+  `${vetor[3]} - Esse é o valor da posição 3 do meu vetor. obs: lembrando que começa com 0`
+);
+
 let vetor = [10, 20, 30, 40, 50, 60, 70, 80, 90];
 
 for (let i = 0; i < vetor.length; i++) {
